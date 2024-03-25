@@ -23,7 +23,7 @@
 		"node": ">=12.9.0"
 	},
 	"dependencies": {
-		"pinus-logger": "^1.7.1"
+		"pinus-logger": "github:dunadain/pinusmaple-logger#main"
 	},
 	"devDependencies": {
 		"@types/node": "^12.20.41",
